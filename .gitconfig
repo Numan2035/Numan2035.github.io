@@ -1,0 +1,14 @@
+[user]
+        name = numan
+        email = numanbykcm@gmail.com
+[core]
+        editor = nano
+[init]
+        defaultBranch = master
+[credential]
+        helper = store
+[alias]
+        co = checkout
+        st = status
+        c = commit
+        b = branch
